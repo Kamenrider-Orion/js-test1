@@ -1,0 +1,13 @@
+console.log("Hello, World!");
+const firstName = "Orion";
+const lastName = "Huszics";
+let fullname = firstName + " " + lastName;
+const color = "Green";
+const age = 22;
+console.log("my name is " + fullname + " my favorit color is " + color + " and i am " + age + " years old.");
+const x = 74;
+const y = 41;
+console.log(x + y);
+console.log(x * y);
+console.log(x - y);
+console.log(x / y);
